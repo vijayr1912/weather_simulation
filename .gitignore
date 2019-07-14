@@ -4,3 +4,4 @@ wp
 __pycache__
 logs
 *.xlsx
+*.DS_Store
